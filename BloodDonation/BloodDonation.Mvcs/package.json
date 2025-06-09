@@ -8,7 +8,8 @@
     "css:watch": "npx tailwindcss -i ./wwwroot/css/site.css -o ./wwwroot/css/output.css --watch"
   },
   "devDependencies": {
-    "tailwindcss": "^4.0.0-alpha.33",
-    "@tailwindcss/cli": "^4.0.0-alpha.33"
+    "@tailwindcss/cli": "^4.0.0-alpha.33",
+    "eslint": "^9.28.0",
+    "tailwindcss": "^4.0.0-alpha.33"
   }
 }
