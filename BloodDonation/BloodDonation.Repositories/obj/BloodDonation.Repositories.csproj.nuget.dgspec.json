@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\FPT\\PRN222\\PRN222_BloodDonation\\BloodDonation\\BloodDonation.Repositories\\BloodDonation.Repositories.csproj": {}
+    "E:\\PRN222_BloodDonation\\BloodDonation\\BloodDonation.Repositories\\BloodDonation.Repositories.csproj": {}
   },
   "projects": {
-    "F:\\FPT\\PRN222\\PRN222_BloodDonation\\BloodDonation\\BloodDonation.Repositories\\BloodDonation.Repositories.csproj": {
+    "E:\\PRN222_BloodDonation\\BloodDonation\\BloodDonation.Repositories\\BloodDonation.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\FPT\\PRN222\\PRN222_BloodDonation\\BloodDonation\\BloodDonation.Repositories\\BloodDonation.Repositories.csproj",
+        "projectUniqueName": "E:\\PRN222_BloodDonation\\BloodDonation\\BloodDonation.Repositories\\BloodDonation.Repositories.csproj",
         "projectName": "BloodDonation.Repositories",
-        "projectPath": "F:\\FPT\\PRN222\\PRN222_BloodDonation\\BloodDonation\\BloodDonation.Repositories\\BloodDonation.Repositories.csproj",
+        "projectPath": "E:\\PRN222_BloodDonation\\BloodDonation\\BloodDonation.Repositories\\BloodDonation.Repositories.csproj",
         "packagesPath": "C:\\Users\\kietn\\.nuget\\packages\\",
-        "outputPath": "F:\\FPT\\PRN222\\PRN222_BloodDonation\\BloodDonation\\BloodDonation.Repositories\\obj\\",
+        "outputPath": "E:\\PRN222_BloodDonation\\BloodDonation\\BloodDonation.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

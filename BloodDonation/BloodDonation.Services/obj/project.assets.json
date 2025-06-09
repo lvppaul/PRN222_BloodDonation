@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\FPT\\PRN222\\PRN222_BloodDonation\\BloodDonation\\BloodDonation.Services\\BloodDonation.Services.csproj",
+      "projectUniqueName": "E:\\PRN222_BloodDonation\\BloodDonation\\BloodDonation.Services\\BloodDonation.Services.csproj",
       "projectName": "BloodDonation.Services",
-      "projectPath": "F:\\FPT\\PRN222\\PRN222_BloodDonation\\BloodDonation\\BloodDonation.Services\\BloodDonation.Services.csproj",
+      "projectPath": "E:\\PRN222_BloodDonation\\BloodDonation\\BloodDonation.Services\\BloodDonation.Services.csproj",
       "packagesPath": "C:\\Users\\kietn\\.nuget\\packages\\",
-      "outputPath": "F:\\FPT\\PRN222\\PRN222_BloodDonation\\BloodDonation\\BloodDonation.Services\\obj\\",
+      "outputPath": "E:\\PRN222_BloodDonation\\BloodDonation\\BloodDonation.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
